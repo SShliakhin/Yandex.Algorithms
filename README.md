@@ -8,7 +8,7 @@
 | [Множества](https://youtu.be/PUpmV2ieIHA) | [9/10](Solution3.md) | [GI](https://youtu.be/J2C6rDqe8mQ) | - | [DEA](https://youtu.be/mjdu8abcNfc?t=22) | [5/5](SolutionB3.md) | [DE](https://youtu.be/adZYAsm6kow?t=30) |
 | [Словари и сортировка подсчётом](https://youtu.be/Nb5mW1yWVSs) | [10/10](Solution4.md) | [HIJ](https://youtu.be/J2C6rDqe8mQ?t=1860) | - | [CE](https://youtu.be/mjdu8abcNfc?t=2353) | [5/5](SolutionB4.md) | [CDE](https://youtu.be/adZYAsm6kow?t=1979) |
 | [Префиксные суммы и два указателя](https://youtu.be/de28y8Dcvkg) | [10/10](Solution5.md) | [GIJ](https://youtu.be/fqsuy5rwZhk?t=280) | - | [DE](https://youtu.be/zU12H9x9MNg?t=40) | [5/5](SolutionB5.md)| [CE](https://youtu.be/0ExkSKz0Y8U?t=23) |
-| [Бинарный поиск](https://youtu.be/YENpZexHfuk)| [11/11](Solution6.md) | [IK](https://youtu.be/fqsuy5rwZhk?t=3075) | - | [DE](https://youtu.be/zU12H9x9MNg?t=2354) | [3/5](SolutionB6.md) | [DE](https://youtu.be/0ExkSKz0Y8U?t=2529) |
+| [Бинарный поиск](https://youtu.be/YENpZexHfuk)| [11/11](Solution6.md) | [IK](https://youtu.be/fqsuy5rwZhk?t=3075) | - | [DE](https://youtu.be/zU12H9x9MNg?t=2354) | [5/5](SolutionB6.md) | [DE](https://youtu.be/0ExkSKz0Y8U?t=2529) |
 | [Сортировка событий](https://youtu.be/hGixDBO-p6Q) | [10/10](Solution7.md) | [DHIJ](https://youtu.be/5lfkBD4dnGM&t=310) | - | [DE](https://youtu.be/4zPoDYvcT6U?t=22) | - | [CE](https://youtu.be/r5mRCMLY_L4?t=24) |
 | [Деревья](https://youtu.be/lEJzqHgyels) | [10/10](Solution8.md) | нет | - | [CE](https://youtu.be/4zPoDYvcT6U?t=1751) | - | [CE](https://youtu.be/r5mRCMLY_L4?t=1945) |
 
