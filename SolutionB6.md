@@ -156,6 +156,26 @@ print(lBSeach(check: check(m:)))
 https://contest.yandex.ru/contest/29188/problems/D/
 
 ```swift
+let arr = readLine()!.split(separator: " ").map{Int($0)!}
+let (a, k, b, m, x) = (arr[0], arr[1], arr[2], arr[3], arr[4])
+
+func lBSeach(l: inout Int, r: inout Int, condition: (Int) -> Bool) -> Int {
+    while l < r {
+        let m = (l + r) / 2
+        if condition(m) {
+            r = m
+        } else {
+            l = m + 1
+        }
+    }
+    return l
+}
+
+var l = 1
+var r = x * 2 / max(a, b)
+
+print(lBSeach(l: &l, r: &r)
+        { a * $0 - ($0 / k * a) + b * $0 - ($0 / m * b) >= x })
 
 ```
 
@@ -163,4 +183,43 @@ https://contest.yandex.ru/contest/29188/problems/D/
 https://contest.yandex.ru/contest/29188/problems/E/
 
 ```swift
+let arrNK = readLine()!.split(separator: " ").map{Int($0)!}
+let n = arrNK.first!
+let k = arrNK.last!
+
+let arr = readLine()!.split(separator: " ").map{Int($0)!}.sorted(by: <)
+
+func lBSeach(l: inout Int, r: inout Int, condition: (Int)->Bool) -> Int {
+    while l < r {
+        let m = (l + r) / 2
+        if condition(m) {
+            r = m
+        } else {
+            l = m + 1
+        }
+    }
+    return l
+}
+
+var l = 0
+var r = arr[arr.count - 1] - arr[0]
+
+if k == 1 {
+    print(r)
+} else {
+    let ans = lBSeach(l: &l, r: &r) { m in
+        var cntSegments = 0
+        var bS = arr[0]
+        arr[1...].forEach { (item) in
+            if item - bS > m {
+                cntSegments += 1
+                bS = item
+            }
+        }
+        cntSegments += 1
+        return cntSegments <= k
+    }
+    
+    print(ans)
+}
 ```
