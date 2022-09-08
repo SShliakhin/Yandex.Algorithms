@@ -19,5 +19,11 @@
 
 ## Летние школы Академии Яндекса 2022
 
-- [Занятие 1 (Разбор случаев, линейный поиск)](https://contest.yandex.ru/contest/39359/problems/)
-- [Занятие 2 (Множества, словари)](https://contest.yandex.ru/contest/39714/problems/)
+- [Интенсив по алгоритмам. Введение](https://youtu.be/KXZhSizvig4) - разбор задачи из ТА занятие 5 (дивизион А) С.Лучшие друзья девушек - это фуллерены 
+- Занятие 1 (Разбор случаев, линейный поиск) [ДЗ](https://contest.yandex.ru/contest/39359/problems/) [Разбор](https://youtu.be/aJs9TQOadfA) [Решение]()
+- Занятие 2 (Множества, словари) [ДЗ](https://contest.yandex.ru/contest/39714/problems/) [Разбор](https://youtu.be/BjIrSQAMzr0) [Решение]()
+- Занятие 3 (Префиксные суммы, два указателя, бинарный поиск) [ДЗ](https://contest.yandex.ru/contest/40146/problems/) [Разбор]() [Решение]()
+- Занятие 4 [ДЗ]() [Разбор]() [Решение]()
+
+## Полезные лекции
+- [Алгоритмы](https://youtu.be/5BjhC5Iktwg?list=PLQC2_0cDcSKAcQQjPdi77FUF8LYoLZHoO) - разбор задачи "Магическая строка"
