@@ -19,11 +19,11 @@
 
 ## Летние школы Академии Яндекса 2022
 
-- [Интенсив по алгоритмам. Введение](https://youtu.be/KXZhSizvig4) - разбор задачи из ТА занятие 5 (дивизион А) С.Лучшие друзья девушек - это фуллерены 
+- [Интенсив по алгоритмам. Введение](https://youtu.be/KXZhSizvig4) - разбор задачи из ТА 2.0 занятие 5 (дивизион А) С.Лучшие друзья девушек - это фуллерены 
 - Занятие 1 (Разбор случаев, линейный поиск) [ДЗ](https://contest.yandex.ru/contest/39359/problems/) [Разбор](https://youtu.be/aJs9TQOadfA) [Решение]()
 - Занятие 2 (Множества, словари) [ДЗ](https://contest.yandex.ru/contest/39714/problems/) [Разбор](https://youtu.be/BjIrSQAMzr0) [Решение]()
-- Занятие 3 (Префиксные суммы, два указателя, бинарный поиск) [ДЗ](https://contest.yandex.ru/contest/40146/problems/) [Разбор]() [Решение]()
-- Занятие 4 [ДЗ]() [Разбор]() [Решение]()
+- Занятие 3 (Префиксные суммы, два указателя, бинарный поиск) [ДЗ](https://contest.yandex.ru/contest/40146/problems/) [Разбор](https://youtu.be/J9LUtUbMRpk) [Решение]()
+- Занятие 4 (Сортировка событий и деревья) [ДЗ](https://contest.yandex.ru/contest/40183/problems/) [Разбор](https://youtu.be/coZrFBPnFco) [Решение]()
 
 ## Полезные лекции
 - [Алгоритмы](https://youtu.be/5BjhC5Iktwg?list=PLQC2_0cDcSKAcQQjPdi77FUF8LYoLZHoO) - разбор задачи "Магическая строка"
