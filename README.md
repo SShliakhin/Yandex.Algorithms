@@ -27,3 +27,6 @@
 
 ## Полезные лекции
 - [Алгоритмы](https://youtu.be/5BjhC5Iktwg?list=PLQC2_0cDcSKAcQQjPdi77FUF8LYoLZHoO) - разбор задачи "Магическая строка"
+
+## Другое
+- Курс "Алгоритмы и структуры данных" [Введение и пробные задачи](https://practicum.yandex.ru/profile/algorithms/)
